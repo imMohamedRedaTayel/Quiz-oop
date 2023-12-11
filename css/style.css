@@ -1,0 +1,50 @@
+#quiz,
+#finish
+ {
+    display: none;
+
+}  
+#inCorrect,
+#Correct{
+    width: fit-content !important;
+}
+.show{
+    display: block !important;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(./images/Wave-100s-1366px\ \(2\).svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #653383;
+}
+
+.clear-fix {
+    clear: both;
+}
+.close {
+    cursor: pointer;
+}
+
+.text-spec {
+    color: #653383
+}
+
+.bg-spec {
+    background-color: #653383
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #653383;
+}
+
+
+
+
